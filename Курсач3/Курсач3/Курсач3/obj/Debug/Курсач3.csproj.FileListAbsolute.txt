@@ -1,0 +1,11 @@
+C:\Users\ACER\Лабы VS\курсовая\Курсач3\Курсач3\bin\Debug\Курсач3.exe.config
+C:\Users\ACER\Лабы VS\курсовая\Курсач3\Курсач3\bin\Debug\Курсач3.exe
+C:\Users\ACER\Лабы VS\курсовая\Курсач3\Курсач3\bin\Debug\Курсач3.pdb
+C:\Users\ACER\Лабы VS\курсовая\Курсач3\Курсач3\obj\Debug\Курсач3.csproj.AssemblyReference.cache
+C:\Users\ACER\Лабы VS\курсовая\Курсач3\Курсач3\obj\Debug\Курсач3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Лабы VS\курсовая\Курсач3\Курсач3\obj\Debug\Курсач3.Form1.resources
+C:\Users\ACER\Лабы VS\курсовая\Курсач3\Курсач3\obj\Debug\Курсач3.Properties.Resources.resources
+C:\Users\ACER\Лабы VS\курсовая\Курсач3\Курсач3\obj\Debug\Курсач3.csproj.GenerateResource.cache
+C:\Users\ACER\Лабы VS\курсовая\Курсач3\Курсач3\obj\Debug\Курсач3.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Лабы VS\курсовая\Курсач3\Курсач3\obj\Debug\Курсач3.exe
+C:\Users\ACER\Лабы VS\курсовая\Курсач3\Курсач3\obj\Debug\Курсач3.pdb
